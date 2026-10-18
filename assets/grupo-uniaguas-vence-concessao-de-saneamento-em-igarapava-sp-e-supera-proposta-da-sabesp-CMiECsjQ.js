@@ -1,0 +1,38 @@
+var e=`<p>O Grupo UniÁguas venceu o leilão de concessão dos serviços de saneamento de <a href="https://igarapava.sp.gov.br/site/" target="_blank" rel="noopener noreferrer">Igarapava (SP)</a>, superando a concorrência da própria estatal <a href="https://www.sabesp.com.br/o-que-fazemos/fornecimento-agua/recursos-hidricos" target="_blank" rel="noopener noreferrer">Sabesp</a>.</p>
+<p>Um marco histórico: Em 2023, o <a href="https://uniaguas.com.br/" target="_blank" rel="noopener noreferrer">Grupo UniÁguas</a>, do qual a <a href="/hidrogesp/">Hidrogesp</a> faz parte, protagonizou um dos momentos mais emblemáticos do setor na <a href="https://www.b3.com.br/pt_br/para-voce" target="_blank" rel="noopener noreferrer">B3</a>, em São Paulo. A vitória histórica sobre estatais na bolsa de valores não foi apenas um marco para o saneamento, mas a prova definitiva da expertise técnica e robustez financeira que a Hidrogesp, do Grupo Uniáguas traz para o seu negócio.</p>
+<p>A confiança é o ativo mais escasso e valioso no mercado de infraestrutura. Quando uma indústria decide investir na sua autonomia hídrica, ela não está apenas contratando uma obra; ela está depositando o futuro de sua operação nas mãos de um parceiro. Em um setor tão crítico, onde a continuidade da produção depende de cada gota, a pergunta central é: quem tem a solidez comprovada para gerir esse ativo?</p>
+<p>Um marco histórico recente responde a essa pergunta. Em 2023, o Grupo UniÁguas, do qual a Hidrogesp faz parte, protagonizou um dos momentos mais emblemáticos do setor na B3, em São Paulo. O grupo venceu o leilão de concessão dos serviços de saneamento de Igarapava (SP), superando a concorrência da própria estatal Sabesp.</p>
+<p>Este evento não foi apenas uma vitória comercial; foi a prova definitiva de que a inteligência privada e a governança de alto nível do nosso grupo são o padrão-ouro para o saneamento e a gestão hídrica no Brasil.</p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-1-hDo2B8Sn.webp" alt=""></p>
+<h2>O problema: A fragilidade da dependência em serviços públicos</h2>
+<p>Muitas indústrias e empresas operam sob um risco invisível. Depender exclusivamente das concessionárias públicas significa estar sujeito a prioridades que nem sempre se alinham às necessidades de uma planta industrial 24/7. Quando o sistema público enfrenta desafios de investimento, manutenção ou escassez, a indústria é a primeira a sentir o impacto em seus custos e na continuidade de sua produção.</p>
+<p>A dor é real: paradas inesperadas, falta de pressão, qualidade de água inconstante e a imobilidade jurídica para intervir em um sistema que não pertence a você.</p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-2-qSYQwoUu.webp" alt=""></p>
+<h2>O caso Igarapava: Autoridade reconhecida no altar do mercado financeiro</h2>
+<p>A vitória em Igarapava selou o compromisso do Grupo UniÁguas com a excelência. Ao vencer o leilão com uma proposta de R$ 24,5 milhões de outorga e o compromisso de investir R$ 21,5 milhões em infraestrutura, o grupo demonstrou possuir a robustez financeira e técnica que o mercado exige.</p>
+<p>Este é o know-how que a Hidrogesp traz para dentro da sua planta industrial. Quando falamos de tradição de 40 anos, estamos falando de uma experiência que foi testada e aprovada no ambiente mais rigoroso do país: a Bolsa de Valores. A gestão de 35 anos em Igarapava é o reflexo da nossa capacidade de planejar, operar e garantir eficiência hídrica em escala.</p>
+<h2>A solução: Hidrogesp e o Modelo WaaS — segurança de concessionária na sua indústria e negócio</h2>
+<p>Como transportamos essa autoridade de uma concessão municipal para a sua fábrica? Através do conceito WaaS (Water as a Service).</p>
+<p>Se o Grupo UniÁguas é capaz de gerir o saneamento de uma cidade inteira com eficiência superior à estatal, a Hidrogesp aplica essa mesma maturidade operacional para garantir que sua indústria alcance a soberania hídrica estratégica.</p>
+<h2>O que a Hidrogesp entrega com o respaldo do Grupo UniÁguas:</h2>
+<ol>
+<li>Investimento com risco Zero (Capex Free): Assim como nas grandes concessões, nós assumimos o investimento. Sua empresa ganha uma infraestrutura de nível municipal sem gastar um centavo de capital próprio no início do projeto.</li>
+<li>Maturidade em gestão de ativos: O que aplicamos em Igarapava — requalificação, manutenção preventiva e preditiva — é exatamente o que levamos para a sua planta. Reduzimos perdas e aumentamos a regularidade dos serviços com rigor técnico absoluto.</li>
+<li>Segurança e Governança corporativa: Operar na B3 exige níveis de transparência e conformidade que poucas empresas possuem. Essa mesma segurança jurídica e transparência financeira são aplicadas nos contratos com nossos parceiros industriais.</li>
+<li>Eficiência socioambiental (ESG): Nosso foco em Igarapava é gerar ganhos em saúde e preservação. Na sua indústria, isso se traduz em soluções de reúso e tratamento que elevam o seu patamar de sustentabilidade perante o mercado e investidores.</li>
+</ol>
+<h2>O futuro da sua água com quem vence desafios</h2>
+<p>A vitória na <a href="https://www.b3.com.br/pt_br/para-voce" target="_blank" rel="noopener noreferrer">B3</a> é o selo de confiança que faltava para sua tomada de decisão. A Hidrogesp, amparada pela força e solidez do <a href="https://uniaguas.com.br/" target="_blank" rel="noopener noreferrer">Grupo UniÁguas</a>, está pronta para projetar, financiar e operar o seu sistema hídrico com a segurança de quem já domina o ciclo completo da água há décadas.</p>
+<p>Traga para a sua empresa a mesma inteligência que venceu gigantes do setor.</p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-3-BLdme0TK.webp" alt=""></p>
+<p>Grupo UniÁguas e as notícias em sites:\xA0</p>
+<p><a href="https://www.poder360.com.br/infraestrutura/consorcio-da-uniaguas-bate-sabesp-e-leva-concessao-de-saneamento/" target="_blank" rel="noopener noreferrer">https://www.poder360.com.br/infraestrutura/consorcio-da-uniaguas-bate-sabesp-e-leva-concessao-de-saneamento/</a></p>
+<p><a href="https://www.b3.com.br/pt_br/noticias/prefeitura-de-igarapava-sp-realiza-leilao-na-b3-para-concessao-dos-servicos-de-agua-e-esgotamento-sanitario.htm" target="_blank" rel="noopener noreferrer">https://www.b3.com.br/pt_br/noticias/prefeitura-de-igarapava-sp-realiza-leilao-na-b3-para-concessao-dos-servicos-de-agua-e-esgotamento-sanitario.htm</a></p>
+<blockquote>
+<p>Sua indústria merece uma gestão hídrica que impulsione seus resultados, transformando o consumo em um ativo estratégico, em vez de consumir seu capital.</p>
+</blockquote>
+<p>Com nossa tradição de 40 anos e a solidez comprovada do Grupo UniÁguas na B3, entregamos autonomia hídrica sem necessidade de aporte inicial. Através do conceito <a href="/hidrogesp/noticias/o-que-e-o-conceito-waas-e-como-ele-esta-revolucionando-a-gestao-hidrica-industrial">WaaS (Water as a Service)</a>, garantimos autossuficiência e alta performance para sua planta.</p>
+<p>Fale com nossa equipe e solicite um estudo de viabilidade. Nossa engenharia está pronta para desenhar a sua transição para o modelo hídrico mais eficiente e seguro do mercado.</p>
+<p><a href="https://wa.me/5511947914356" target="_blank" rel="noopener noreferrer">Solicitar Estudo de Viabilidade</a></p>
+<p>#Hidrogesp #GrupoUniAguas #SaneamentoB3 #ConceitoWaaS #SoberaniaHidrica #ExpertiseHidrica #CapexZero #Igarapava #GestaoDeAtivos #Tradicao40Anos #IndependenciaIndustria</p>
+`;export{e as html};

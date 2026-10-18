@@ -1,0 +1,49 @@
+var e=`<h2>Eficiência hídrica e fiscal: Transformando custos em ativos industriais com regras de elegibilidade claras</h2>
+<p>\xA0A água da sua fábrica pode ser o ponto de partida para um abatimento fiscal de 9,25%.</p>
+<p>A integração entre engenharia de utilidades e inteligência fiscal é o novo motor de eficiência para grandes indústrias. Descubra como o monitoramento IoT integrado da Hidrogesp blinda sua segurança hídrica e fornece o lastro técnico para o aproveitamento de <strong>créditos de PIS e COFINS com investimento zero.</strong></p>
+<p>No atual cenário macroeconômico, a gestão de grandes indústrias exige uma busca incessante por eficiência que vai muito além das linhas de produção. Para diretores financeiros (CFOs) e gestores de engenharia de utilidades, o custo de abastecimento de água sempre foi tratado como uma despesa operacional fixa e inevitável. Contudo, a evolução da governança corporativa e da inteligência tributária transformou esse insumo vital em uma das maiores oportunidades de otimização de custos e conformidade ESG da década.</p>
+<p>Grandes plantas industriais operam, em sua maioria, sob regimes de tributação do Lucro Real, o que permite o aproveitamento de créditos fiscais no sistema não cumulativo. Continuar tratando a água industrial apenas como um gasto de consumo, sem aplicar os critérios técnicos de essencialidade e relevância que fundamentam o abatimento de impostos, significa aceitar um desperdício contínuo de capital e abrir mão de um alívio expressivo no fluxo de caixa corporativo.</p>
+<h2>O desconhecimento fiscal sobre o custo real da água</h2>
+<p>O grande gargalo nas indústrias químicas, farmacêuticas, de alimentos, bebidas e metalurgia reside na forma como a contabilidade tradicional classifica o uso da água. Muitas corporações compram água da concessionária pública local ou contratam frotas de caminhões-pipa e lançam esses valores simplesmente como &quot;despesas com utilidades&quot; ou &quot;gastos gerais&quot;.</p>
+<p>O erro dessa abordagem puramente analógica é ignorar o critério de <strong>essencialidade</strong>. Se a sua planta necessita da água para resfriar torres, alimentar caldeiras, compor o produto final ou realizar a higienização sanitária obrigatória de linhas de montagem, ela não é um mero bem de consumo. Ela é um elemento vital para a existência da atividade econômica da empresa.</p>
+<p>Ao deixar de creditar os valores despendidos com esse insumo, a empresa herda uma carga tributária inflada, pagando mais impostos do que o estipulado pela legislação federal. Em um mercado altamente competitivo, essa ineficiência fiscal consome margens de lucro que deveriam ser direcionadas para investimentos em inovação e modernização tecnológica.</p>
+<h2>As regras de elegibilidade e o marco regulatório tributário</h2>
+<p>A virada de chave para a recuperação de ativos fiscais ocorreu com a consolidação de entendimentos técnicos e administrativos que definem o conceito de insumo para fins de creditamento. De acordo com as normas tributárias federais, o aproveitamento de créditos de PIS e COFINS no regime não cumulativo deve ser aferido à luz dos critérios de <strong>essencialidade</strong> ou <strong>relevância</strong> do insumo no processo produtivo da empresa.</p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-1-yHamMx4A.webp" alt=""></p>
+<p>Para uma indústria <strong>ser elegível a esse benefício</strong> e <strong>usufruir da recuperação tributária</strong>, as <strong>regras</strong> fundamentais são:</p>
+<ul>
+<li><strong>Regime tributário:</strong> A empresa deve, obrigatoriamente, estar enquadrada no regime do <strong>Lucro Real</strong>, que é o sistema que adota a não cumulatividade das contribuições para o PIS (alíquota de 1,65%) e para a COFINS (alíquota de 7,60%).</li>
+<li><strong>Demonstração de essencialidade:</strong> A engenharia e a área fiscal devem comprovar que a retirada da água inviabilizaria o processo produtivo ou privaria o produto final de sua qualidade e conformidade legal.</li>
+</ul>
+<p>Somadas as alíquotas, a tese garante o direito de reaver <strong>9,25% de créditos fiscais</strong> sobre o valor total investido na captação, tratamento e destinação da água industrial, gerando um ganho de caixa imediato.</p>
+<h2>Estudo de caso real: O impacto dos números no caixa industrial</h2>
+<p>Para compreender a dimensão desse benefício financeiro, consideremos uma planta industrial de médio a grande porte com um gasto fixo de <strong>R$ 500.000,00 por mês</strong> em abastecimento de água:</p>
+<ul>
+<li><strong>Abatimento mensal de PIS/COFINS (9,25%):</strong> R$ 46.250,00 de economia líquida mensal direta na guia de impostos.</li>
+<li><strong>Projeção anual de economia:</strong> R$ 555.000,00 poupados a cada doze meses.</li>
+<li><strong>Recuperação retroativa (60 meses):</strong> Um potencial de geração de ativos de <strong>R$ 2.775.000,00</strong> para o caixa da companhia.</li>
+</ul>
+<h2>A solução da Hidrogesp: Engenharia integrada e dupla economia para o seu negócio</h2>
+<p>A conquista dessa eficiência financeira e operacional atinge seu nível máximo quando associada às soluções de engenharia da <strong>Hidrogesp</strong>. Respaldada por 40 anos de sólida tradição técnica e fortalecida pela robustez de mercado e alta governança do <strong>Grupo UniÁguas</strong>, a Hidrogesp entrega ao setor privado o ecossistema definitivo: o <a href="/hidrogesp/noticias/garantir-agua-para-sua-operacao"><strong>Modelo BOT (Build, Operate and Transfer)</strong></a> estruturado sob o conceito <a href="/hidrogesp/noticias/sua-planta-industrial-ou-comercial-esta-pagando-um-multiplicador-invisivel-na-conta-de-esgoto"><strong>WaaS (Water as a Service)</strong>.</a></p>
+<p>Nossa atuação entrega um benefício duplo (<em>Saving</em> Hidrogesp + alívio fiscal):</p>
+<p><strong>1. Redução imediata no custo do metro cúbico (Capex zero)</strong></p>
+<p>A Hidrogesp assume 100% do investimento inicial necessário para projetar, perfurar e regularizar poços profundos ou implantar Estações de Tratamento de Água (ETAs) e Efluentes para reuso diretamente dentro do seu terreno (<em>In-House</em>). Sua empresa elimina as tarifas abusivas das concessionárias públicas e a necessidade de caminhões-pipa, passando a pagar apenas pela água efetivamente consumida (WaaS). A tarifa contratualizada já gera, por si só, um <em>saving</em> expressivo em relação ao mercado tradicional.</p>
+<p><strong>2. Blindagem e lastro técnico para o aproveitamento dos créditos de 9,25%</strong></p>
+<ul>
+<li>A recuperação dos créditos de PIS e COFINS exige um rigor técnico absoluto para evitar questionamentos por parte dos órgãos fiscalizadores federais. É aqui que a automação 4.0 da Hidrogesp se torna indispensável:</li>
+<li><strong>Telemetria IoT em tempo real:</strong> Nossos sensores de Internet das Coisas monitoram continuamente a vazão, o consumo e os parâmetros de destinação da água.</li>
+<li><strong>Dados auditáveis:</strong> Geramos relatórios de dados estruturados e rastreáveis que comprovam, de forma inequívoca perante auditorias fiscais, que cada metro cúbico foi empregado diretamente como insumo essencial nas etapas de utilidades e manufatura da planta.</li>
+</ul>
+<p>Ao final do contrato BOT, toda essa infraestrutura tecnológica, operando em perfeito estado e com as outorgas e licenças ambientais rigorosamente em dia, é transferida sem ônus para a propriedade da sua empresa.</p>
+<h2>Sua planta merece o equilíbrio perfeito entre soberania operacional e inteligência tributária.</h2>
+<p>Tratar a água industrial apenas como um centro de custo analógico é ignorar as ferramentas de governança moderna e os direitos fiscais consolidados pelos tribunais superiores. A combinação entre o <em><strong>saving</strong></em> <strong>operacional</strong> da <strong>infraestrutura</strong> <em><strong>in-house</strong></em> <strong>da Hidrogesp</strong> e o aproveitamento do crédito de 9,25% de PIS e COFINS reposiciona a engenharia de utilidades como uma unidade geradora de eficiência financeira e conformidade ESG.</p>
+<p><a href="/hidrogesp/#contato"><strong>Entre em contato com a equipe de especialistas da Hidrogesp hoje mesmo.</strong></a>\xA0</p>
+<p>Venha fazer um <strong>estudo de viabilidade gratuito para avaliar o potencial de economia do seu subsolo</strong> e estruturar o lastro técnico para a recuperação dos ativos fiscais da sua operação.</p>
+<p>A fundamentação técnica para <strong>a recuperação de créditos industriais de PIS e COFINS</strong> sobre a água industrial <strong>baseia-se em normas e diretrizes administrativas federais</strong>, que estabelecem os critérios de essencialidade e relevância para a caracterização de insumos no regime não cumulativo.\xA0</p>
+<p>Para um aprofundamento técnico e conformidade de sua equipe, consulte as referências oficiais:</p>
+<ul>
+<li>RECEITA FEDERAL DO BRASIL - RFB. <em>Parecer Normativo COSIT nº 5/2018. Aplicação dos conceitos de insumo da contribuição para o PIS/Pasep e da Cofins à luz da consolidação do critério de essencialidade e relevância.</em> Brasília: Ministério da Fazenda, Governo Federal. [cite: COSIT nº 5/2018]</li>
+<li>RECEITA FEDERAL DO BRASIL - RFB. <em>Soluções de consulta e pareceres administrativos sobre creditamento de insumos.</em> Brasília: Ministério da Fazenda, Governo Federal. Documentos que fundamentam os parâmetros de auditabilidade e comprovação técnica da essencialidade hídrica no processo produtivo industrial. [cite: COSIT nº 5/2018]</li>
+<li>ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNT. <em>NBR 6023: Informação e documentação - Referências - Elaboração.</em> Rio de Janeiro: ABNT. Normativa aplicada para padronização de referências e auditorias de dados estruturados industriais. [cite: NBR 6023]</li>
+</ul>
+`;export{e as html};

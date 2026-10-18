@@ -1,0 +1,14 @@
+var e=`<p>💧<strong>Hidrogesp</strong> - Mais de 40 anos transformando o futuro da água no Brasil.</p>
+<p>Hoje, em 2026, honramos nossa tradição para projetar o seu futuro. Entregamos independência hídrica com <a href="/hidrogesp/#servicos">investimento zero (Capex Free)</a> e operação de alta performance.</p>
+<h2><strong>Estamos prontos para a nova era do saneamento sustentável.</strong></h2>
+<p>Nossa jornada <a href="/hidrogesp/sobre">começou em 1981</a> com uma missão clara: elevar o padrão do setor. Enquanto o mercado via poços como simples obras, nós introduzimos a Engenharia de processos. Transformamos perfuração em ciência aplicada e abrimos caminho para a autonomia hídrica industrial.</p>
+<p>Ao longo das décadas, quebramos paradigmas:</p>
+<p>🔹 Anos 90: Consolidamos nossa autoridade com mais de 3.000 poços e frotas líderes na América Latina.</p>
+<p>🔹 Pioneirismo: Fomos precursores do modelo BOT (Build-Operate-Transfer), a base do que hoje entregamos como WaaS (Water as a Service - Água como serviço).</p>
+<p>🔹 Expansão e governança: Fundação do <a href="https://uniaguas.com.br/" target="_blank" rel="noopener noreferrer"><strong>Grupo UniÁguas</strong></a>, assumimos concessões e implementamos um conselho de administração rigoroso para garantir segurança jurídica e financeira aos nossos parceiros.\xA0</p>
+<p>Hoje, somos a convergência exata entre a tradição de quem conhece cada gota e a ousadia de quem domina a tecnologia de ponta. Não entregamos apenas sistemas; entregamos independência. Desbloqueamos o potencial invisível dos efluentes, <a href="/hidrogesp/cases">transformando passivos em ativos e custos em lucro.</a></p>
+<p>💎 Somos a <strong>Hidrogesp.</strong> - <a href="/hidrogesp/sobre">Transformando recursos hídricos em ativos estratégicos</a></p>
+<p><strong>EM BREVE:</strong> Nosso novo site estará completo no ar com todos os detalhes da nossa inteligência hídrica!</p>
+<p><a href="/hidrogesp/#contato">Fale com nossa equipe</a>, ou\xA0<a href="https://api.whatsapp.com/send/?phone=+11947914356&amp;text=Quero+um+diagn%C3%B3stico+de+efici%C3%AAncia+h%C3%ADdrica&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener noreferrer">Clique no link para falar agora</a> e descubra como transformar seus recursos hídricos em valor sustentável.</p>
+<p>✅ 40 anos de expertise hídrica transformando o futuro da água no Brasil 🇧🇷<br>🔹 Conceito WaaS: Sua planta modernizada sem imobilizar capital.<br>🔹 Investimento Zero: Nós construímos, operamos para você e te entregamos com economia.<br>💎 Somos a Hidrogesp. - Transformando recursos hídricos em ativos estratégicos<br>🚀 Fale com nossa equipe e <a href="https://api.whatsapp.com/send/?phone=+11947914356&amp;text=Quero+um+diagn%C3%B3stico+de+efici%C3%AAncia+h%C3%ADdrica&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener noreferrer">solicite seu estudo de viabilidade!</a></p>
+`;export{e as html};

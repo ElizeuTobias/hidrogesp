@@ -1,0 +1,11 @@
+var e=`<p>No dia 15 de abril, na sede da <strong>Hidrogesp</strong>, localizada na Av. Paulista em São Paulo, foi realizada uma reunião estratégica com a equipe, com o objetivo de fortalecer o alinhamento institucional e consolidar o posicionamento da marca.</p>
+<p><em><strong>Na foto de abertura: em pé, da esquerda para a direita:</strong>\xA0Edgard (Sócio), Valmir (Diretor de Novos Negócios), Thiago (Diretor Financeiro), Gilson (Controle Financeiro), Ruth (Financeiro), Bruna (Financeiro), Dra. Juliana (Advogada) e Marcos (Diretor).\xA0<strong>Sentadas:</strong>\xA0Paula (Secretária de Governança) e Mayra (Comunicação Digital).</em></p>
+<p>O encontro contemplou a <strong>apresentação oficial da identidade da Hidrogesp</strong>, a exibição do vídeo institucional e a definição das diretrizes de comunicação, promovendo uma visão integrada entre as áreas e reforçando o compromisso com a excelência, inovação e clareza na comunicação corporativa.</p>
+<p>Mais do que um alinhamento operacional, <strong>o momento representou um importante passo na consolidação da cultura organizacional e no fortalecimento da atuação estratégica da empresa no mercado.</strong></p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-1-CEQAIdoG.webp" alt=""></p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-2-CAwjDiWc.webp" alt=""></p>
+<p><img loading="lazy" src="/hidrogesp/assets/imagem-3-CIEYU3ZX.webp" alt=""></p>
+<p><em>Ruth foi a vencedora do nosso quiz interno sobre a empresa e garantiu seu prêmio: um almoço especial</em></p>
+<p><strong>Transformando recursos hídricos em ativos estratégicos.</strong><br>A autoridade que o mercado conhece, com a tecnologia que o futuro exige.</p>
+<p>✅ 40 anos de expertise hídrica transformando o futuro da água no Brasil 🇧🇷<br>🔹 Conceito WaaS: Sua planta modernizada sem imobilizar capital.<br>🔹 Investimento Zero: Nós construímos, operamos para você e te entregamos com economia.<br>💎 Somos a Hidrogesp. - Transformando recursos hídricos em ativos estratégicos<br>🚀 Fale com nossa equipe e solicite seu estudo de viabilidade!</p>
+`;export{e as html};
