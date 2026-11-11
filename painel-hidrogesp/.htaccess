@@ -1,0 +1,16 @@
+# Painel de leads: só roda o JavaScript e o CSS desta pasta, não pode ser aberto dentro
+# de outro site e fica fora dos buscadores.
+Options -Indexes
+
+<IfModule mod_headers.c>
+  Header always set Content-Security-Policy "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; form-action 'self'; frame-ancestors 'none'; base-uri 'none'"
+  Header always set X-Frame-Options "DENY"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "no-referrer"
+  Header always set X-Robots-Tag "noindex, nofollow"
+
+  # Os nomes destes arquivos não mudam a cada versão: o navegador sempre confere se há versão nova.
+  <FilesMatch "\.(html|js|css)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>

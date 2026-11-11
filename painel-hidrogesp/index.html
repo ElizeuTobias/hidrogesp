@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <title>Painel Hidrogesp</title>
+  <link rel="stylesheet" href="painel.css">
+  <script src="painel.js" defer></script>
+</head>
+<body>
+  <p class="carregando" id="carregando">Carregando…</p>
+
+  <!-- Login -->
+  <section class="centro" id="telaLogin" hidden>
+    <form class="cartao" id="formLogin">
+      <h1>Painel Hidrogesp</h1>
+      <label>E-mail <input type="email" name="email" autocomplete="username" required></label>
+      <label>Senha <input type="password" name="senha" autocomplete="current-password" required></label>
+      <button type="submit">Entrar</button>
+      <p class="erro" id="erroLogin" role="alert" hidden></p>
+    </form>
+  </section>
+
+  <!-- Troca da própria senha (opcional) -->
+  <section class="centro" id="telaSenha" hidden>
+    <form class="cartao" id="formSenha">
+      <h1>Trocar senha</h1>
+      <label>Senha atual <input type="password" name="atual" autocomplete="current-password" required></label>
+      <label>Nova senha <input type="password" name="nova" autocomplete="new-password" minlength="12" required></label>
+      <label>Repita a nova senha <input type="password" name="repetir" autocomplete="new-password" minlength="12" required></label>
+      <p class="dica">Pelo menos 12 caracteres. Uma frase com algumas palavras é forte e fácil de lembrar.</p>
+      <button type="submit">Salvar nova senha</button>
+      <button type="button" class="leve" id="cancelarSenha">Cancelar</button>
+      <p class="erro" id="erroSenha" role="alert" hidden></p>
+    </form>
+  </section>
+
+  <!-- Painel -->
+  <div id="telaPainel" hidden>
+    <header class="topo">
+      <strong>Painel Hidrogesp</strong>
+      <nav class="abas" aria-label="Seções">
+        <button type="button" class="aba" data-aba="leads" aria-current="page">Leads</button>
+        <button type="button" class="aba" data-aba="usuarios" id="abaUsuarios" hidden>Usuários</button>
+      </nav>
+      <div class="conta">
+        <span id="nomeUsuario"></span>
+        <button type="button" class="leve" id="abrirSenha">Trocar senha</button>
+        <button type="button" class="leve" id="sair">Sair</button>
+      </div>
+    </header>
+
+    <main>
+      <p class="erro" id="erroPainel" role="alert" hidden></p>
+      <p class="sucesso" id="okPainel" role="status" hidden></p>
+
+      <!-- Leads -->
+      <section id="secaoLeads">
+        <div class="resumo" aria-label="Totais">
+          <div><strong id="totLeads">0</strong>Leads</div>
+          <div><strong id="totPj">0</strong>PJ</div>
+          <div><strong id="totPf">0</strong>PF</div>
+          <div><strong id="totNovos">0</strong>Novos</div>
+          <div><strong id="totLixeira">0</strong>Na lixeira</div>
+        </div>
+
+        <div class="filtros">
+          <select id="filtroLixeira" aria-label="Mostrar">
+            <option value="">Leads ativos</option>
+            <option value="1">Lixeira (excluídos)</option>
+          </select>
+          <select id="filtroTipo" aria-label="Tipo">
+            <option value="">Todos os tipos</option>
+            <option value="PJ">PJ</option>
+            <option value="PF">PF</option>
+          </select>
+          <select id="filtroSituacao" aria-label="Situação"><option value="">Todas as situações</option></select>
+          <input type="search" id="filtroBusca" placeholder="Buscar nome, empresa, e-mail, campanha…" aria-label="Buscar">
+          <a class="botao leve" id="exportar" href="../api/painel/exportar.php">Exportar para Excel</a>
+        </div>
+
+        <div class="tabela">
+          <table>
+            <thead>
+              <tr><th>Data</th><th>Tipo</th><th>Nome</th><th>Empresa / CNPJ</th><th>Cidade</th><th>Telefone</th><th>E-mail</th><th>Origem</th><th>Situação</th><th>Ações</th></tr>
+            </thead>
+            <tbody id="linhasLeads"></tbody>
+          </table>
+          <p class="vazio" id="vazioLeads" hidden>Nenhum lead encontrado.</p>
+        </div>
+
+        <nav class="paginas" aria-label="Páginas">
+          <button type="button" class="leve" id="anterior">Anterior</button>
+          <span id="infoPagina"></span>
+          <button type="button" class="leve" id="proxima">Próxima</button>
+        </nav>
+      </section>
+
+      <!-- Usuários -->
+      <section id="secaoUsuarios" hidden>
+        <form class="cartao novoUsuario" id="formUsuario">
+          <h2>Novo usuário</h2>
+          <div class="linha">
+            <label>Nome <input name="nome" required maxlength="120" autocomplete="off"></label>
+            <label>E-mail <input type="email" name="email" required maxlength="160" autocomplete="off"></label>
+            <label>Senha <input type="password" name="senha" required minlength="12" autocomplete="new-password"></label>
+            <label>Papel
+              <select name="papel">
+                <option value="equipe">Equipe: vê, atualiza e exporta os leads</option>
+                <option value="admin">Administrador: também gerencia usuários</option>
+              </select>
+            </label>
+            <button type="submit">Criar usuário</button>
+          </div>
+          <label class="mostrar"><input type="checkbox" id="mostrarSenha"> Mostrar senha</label>
+          <p class="dica">A senha precisa ter pelo menos 12 caracteres e não pode conter o e-mail. Entregue-a por um canal seguro.</p>
+        </form>
+
+        <div class="tabela">
+          <table>
+            <thead><tr><th>Nome</th><th>E-mail</th><th>Papel</th><th>Situação</th><th>Último acesso</th><th>Ações</th></tr></thead>
+            <tbody id="linhasUsuarios"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,64 @@
+:root {
+  --fundo: #f4f6f9;
+  --cartao: #ffffff;
+  --texto: #1f2933;
+  --suave: #5f6c7b;
+  --borda: #dde3ea;
+  --marca: #1e3a6b;
+  --erro: #b42318;
+  --sucesso: #146c43;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--texto); background: var(--fundo); }
+[hidden] { display: none !important; }
+h1 { margin: 0 0 16px; font-size: 22px; }
+h2 { margin: 0 0 12px; font-size: 18px; }
+button, select, input, a.botao { font: inherit; }
+button, a.botao { padding: 8px 14px; border: 1px solid var(--marca); border-radius: 6px; background: var(--marca); color: #fff; cursor: pointer; text-decoration: none; display: inline-block; }
+button.leve, a.botao.leve { background: transparent; color: var(--marca); }
+button.perigo { border-color: var(--erro); color: var(--erro); background: transparent; }
+button:disabled { opacity: .5; cursor: default; }
+input, select { padding: 8px 10px; border: 1px solid var(--borda); border-radius: 6px; background: #fff; color: var(--texto); }
+.carregando { text-align: center; margin-top: 30vh; color: var(--suave); }
+.centro { max-width: 400px; margin: 10vh auto 0; padding: 0 16px; }
+.cartao { background: var(--cartao); border: 1px solid var(--borda); border-radius: 10px; padding: 24px; }
+.centro label { display: block; margin-bottom: 12px; color: var(--suave); }
+.centro input { display: block; width: 100%; margin-top: 4px; }
+.centro button { width: 100%; margin-top: 8px; }
+.erro { color: var(--erro); margin: 12px 0 0; }
+.sucesso { color: var(--sucesso); margin: 0 0 12px; }
+.dica { color: var(--suave); font-size: 13px; margin: 6px 0; }
+.topo { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding: 12px 24px; background: var(--cartao); border-bottom: 1px solid var(--borda); }
+.abas { display: flex; gap: 6px; }
+.aba { background: transparent; color: var(--suave); border-color: transparent; }
+.aba[aria-current="page"] { color: var(--marca); border-color: var(--marca); }
+.conta { display: flex; align-items: center; gap: 10px; color: var(--suave); }
+main { max-width: 1320px; margin: 0 auto; padding: 24px; }
+.resumo { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+.resumo div { background: var(--cartao); border: 1px solid var(--borda); border-radius: 10px; padding: 12px 16px; color: var(--suave); }
+.resumo strong { display: block; font-size: 26px; color: var(--texto); }
+.filtros { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 16px 0 14px; }
+.filtros input[type="search"] { flex: 1 1 220px; }
+.tabela { overflow-x: auto; background: var(--cartao); border: 1px solid var(--borda); border-radius: 10px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--borda); vertical-align: top; }
+th { color: var(--suave); font-weight: 600; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+td small { display: block; color: var(--suave); }
+.acoes { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.acoes button, .acoes select, .acoes input { padding: 4px 10px; font-size: 13px; }
+.acoes input { width: 180px; }
+.selo { padding: 1px 8px; border-radius: 99px; font-size: 12px; font-weight: 600; background: #e6eef6; color: var(--marca); white-space: nowrap; }
+.selo.pf, .selo.inativo { background: #eceff2; color: var(--suave); }
+.selo.inativo { color: var(--erro); }
+.vazio { padding: 32px; text-align: center; color: var(--suave); }
+.paginas { display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 16px; color: var(--suave); }
+.novoUsuario { margin-bottom: 16px; }
+.novoUsuario .linha { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; }
+.novoUsuario .linha label { display: flex; flex-direction: column; gap: 4px; color: var(--suave); flex: 1 1 180px; }
+.mostrar { display: inline-flex; gap: 6px; align-items: center; margin-top: 10px; color: var(--suave); font-size: 13px; }
+@media (max-width: 720px) {
+  .resumo { grid-template-columns: repeat(2, 1fr); }
+  .topo, main { padding-left: 16px; padding-right: 16px; }
+}
